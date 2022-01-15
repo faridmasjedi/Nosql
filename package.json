@@ -1,7 +1,7 @@
 {
-  "name": "Nosql",
+  "name": "nosql-fm",
   "version": "1.0.0",
-  "description": "",
+  "description": "To make a database and do all the crud jobs just by string | example: https://github.com/faridmasjedi/NoSql-React", 
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
