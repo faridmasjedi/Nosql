@@ -185,8 +185,6 @@ class Nosql extends CreateFolderAndFile {
 // console.log(database.update({"Id":"bHLW7wV2tb","name":"Salar","age":33}))
 // console.log(database.update({"Id":"OI9igSjZwp","name":"Farid","age":37}))
 // console.log(database.update({"Id":"peQsAYlaqA","name":"Sara","age":34}))
-
 // console.log(database.all())
-
 // console.log(database.remove({"Id":"bHLW7wV2tb","name":"Farid","age":37}))
 // console.log(database.all())
